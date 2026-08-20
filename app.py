@@ -69,4 +69,7 @@ if __name__ == "__main__":
         port=5000,
         debug=True
     )
+<<<<<<< HEAD
     
+=======
+>>>>>>> efde51c (Update Flask application)
