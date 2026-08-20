@@ -48,7 +48,7 @@ def home():
             </p>
 
             <p class="success">
-                ✓ Application is not running
+                ✓ Application is ran by dinu
             </p>
         </div>
     </body>
