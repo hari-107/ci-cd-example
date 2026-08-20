@@ -48,7 +48,7 @@ def home():
             </p>
 
             <p class="success">
-                ✓ Application is running
+                ✓ Application is not running
             </p>
         </div>
     </body>
